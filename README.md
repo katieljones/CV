@@ -28,12 +28,12 @@ Since I can remember, I have always been known as the person who questions the r
 
 #### Makers Academy (May to August 2020)
 
-- OOP, TDD, MVC, BDD, using testing frameworks: RSpec, Jasmine, Capybara
-- Ruby, Rails, JavaScript, Swift, Python, SQL, HTML5/CSS
-- CI/CD pipeline with TravisCI, CircleCI and Heroku
-- Linting, code quality, test coverage with rubocop, eslint, simplecov
-- Agile, XP, SCRUM, Trello, stand-ups
-- Planning over jumping headlong with: user stories, class relationship cards, wireframes, and diagrams
+- **OOP**, **TDD**, **MVC**, **BDD**, using testing frameworks: **RSpec**, **Jasmine**, **Capybara**
+- **Ruby, Rails, JavaScript, Swift, Python, SQL, HTML5/CSS**
+- CI/CD pipeline with **TravisCI, CircleCI** and **Heroku**
+- Linting, code quality, test coverage with **rubocop, eslint, simplecov**
+- **Agile, XP, SCRUM, Trello**, stand-ups
+- Planning over jumping headlong with: **user stories, class relationship cards, wireframes**, and **diagrams**
 <br>
 
 PROJECTS:
@@ -46,15 +46,15 @@ PROJECTS:
 
 You can see all of my work on my github <a href="https://github.com/katieljones/">profile</a>.
 
-De Montfort University / MA DIGITAL HUMANITIES (2017 to 2019)
+**De Montfort University / MA DIGITAL HUMANITIES (2017 to 2019)**
 
-- Distinction and Top of the Class award for original contribution to the field
-- My thesis was the creation of an electronic edition of a Jacobean play, The Costly Whore.
+- **Distinction** and **Top of the Class** award for original contribution to the field
+- My thesis was the creation of an electronic edition of a Jacobean play, *The Costly Whore*.
 
-De Montfort University / BA ENGLISH LITERATURE (2017 to 2019)
+**De Montfort University / BA ENGLISH LITERATURE (2017 to 2019)**
 
 - Upper Second Class Honours (2:1)
-- Modules: Textual Studies using Computers, From Print to Screen, Ways of Reading, Text Technologies
+- Modules: *Textual Studies using Computers*, *From Print to Screen*, *Ways of Reading*, *Text Technologies*
 
 ## EXPERIENCE
 
@@ -64,18 +64,18 @@ De Montfort University / BA ENGLISH LITERATURE (2017 to 2019)
 - Marked up the text with the relevant elements and attributes, ensuring the files validate against the schema
 
 #### XML Consultant, Centre for Textual Studies, De Montfort University  (2017 to present)    
-- Preparing transcriptions for experiments in computational stylistics for Centre for Linguistic and Literary Computing at The University of Newcastle, Australia.
-- Customisation of DTD / Schema
+- Preparing transcriptions for experiments in computational stylistics for *Centre for Linguistic and Literary Computing* at *The University of Newcastle, Australia*.
+- Customisation of **DTD / Schema**
 - Error checking mark-up language 
 - Research what is interesting in the texts for analysis
-- Defining ways to display files with CSS
+- Defining ways to display files with **CSS**
 
  
 #### International Sales Trainee - 3 placements, 2 markets (UK & CH). Vitra Ltd (Aug 2018 to Jan 2020)  
 - Diverse role encouraged market analysis for new opportunities 
 - Created 6 to 12-month strategic account plans
 - Analysed sales cycle in order to create a document that communicates how the company operates to new starters.
-- After no original target, I generated £500k in the first year.
+- After no original target, I generated **£500k** in the **first** year.
 
 ## Hobbies
 
