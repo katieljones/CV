@@ -79,7 +79,7 @@ De Montfort University / BA ENGLISH LITERATURE (2017 to 2019)
 
 ## Hobbies
 
-* ⛸️ Ice Skater -  Yes, I did start before it got cool...
-* 🐌 Gardener - looking to avoid the compost pile at all costs!
-* 🧁 Baker - room for a Millionaire?
-* ⛰️ Mountain Climbing - Completed: Canada, Japan, French Alps, Switzerland. Yet to achieve: A climb without a near-death experience.
+⛸️ Ice Skater -  Yes, I did start before it got cool...<br>
+🐌 Gardener - looking to avoid the compost pile at all costs!<br>
+🧁 Baker - room for a Millionaire?<br>
+⛰️ Mountain Climbing - Completed: Canada, Japan, French Alps, Switzerland. Yet to achieve: A climb without a near-death experience.
