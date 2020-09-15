@@ -2,12 +2,9 @@
 
 <h1 align="center">Katie Jones</h1>
 
-<div align="center">
 After studying Digital Humanities at Masters level, my first career was in International Sales. I completed 18 months and came to the conclusion that it was not for me -- I just wasn't being challenged enough. Thus, I sought advice on how I could hone the coding skills that I began developing at University in order to change career to what I always wanted to do. 
 
 Since then, I have been studying at <a href="http://www.makersacademy.com/">Makers Academy</a>, a highly selective 4-month, full-time bootcamp. Here, I have been learning the fundamentals of software development through making cool projects such as clones of popular social media sites (like <a href="https://github.com/katieljones/acebook-dreambook-2020">this one</a>) which is hosted <a href="https://sheltered-sands-59716.herokuapp.com/">here</a>. My experience at Makers helped me to develop best practises such as unit testing, TDD, clean code, KISS an DRY. Even more so, I discovered my interest in mobile development, more specifically, Swift which I learned and implemented into my final project in just 6 days.
-
-</div>
 
 Now, I am looking for my first Full-Stack Junior Developer role in London. 
 
@@ -31,10 +28,13 @@ Since I can remember, I have always been known as the person who questions the r
 
 #### Makers Academy (May to August 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile, XP, SCRUM
-- Ruby, Rails, JavaScript, Swift, Python, SQL, HTML, CSS
-- RSpec, Jasmine, Capybara <br>
+- OOP, TDD, MVC, BDD, using testing frameworks: RSpec, Jasmine, Capybara
+- Ruby, Rails, JavaScript, Swift, Python, SQL, HTML5/CSS
+- CI/CD pipeline with TravisCI, CircleCI and Heroku
+- Linting, code quality, test coverage with rubocop, eslint, simplecov
+- Agile, XP, SCRUM, Trello, stand-ups
+- Planning over jumping headlong with: user stories, class relationship cards, wireframes, and diagrams
+<br>
 
 PROJECTS:
 
