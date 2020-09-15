@@ -9,6 +9,9 @@ Since then, I have been studying at <a href="http://www.makersacademy.com/">Make
 
 Now, I am looking for my first Full-Stack Junior Developer role in London. 
 </div>
+
+##More about me... 
+
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)
 
 ## SKILLS
