@@ -1,4 +1,6 @@
-# KATIE JONES
+<!DOCTYPE html>
+
+<h1 align="center">Katie Jones</h1>
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)
 
 After studying Digital Humanities at Masters level, my first career was in International Sales. I completed 18 months and came to the conclusion that it was not for me -- I just wasn't being challenged enough. Thus, I sought advice on how I could hone the coding skills that I began developing at University in order to change career to what I always wanted to do. 
