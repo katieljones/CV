@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="./icons/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/katieljones)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/katieljones29/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/KatieLJones29)
+[<img src="./icons/github.svg" height="24" align="top">&nbsp;GitHub](https://github.com/katieljones)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/katieljones29/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/KatieLJones29)
 </div>
 
 ## About me
