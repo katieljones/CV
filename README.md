@@ -6,14 +6,14 @@
 
 [<img src="./icons/github.svg" height="24" align="top">&nbsp;GitHub](https://github.com/katieljones)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/katieljones29/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/KatieLJones29)
 
-**Why did I want to become a developer?**<br>
+***Why did I want to become a developer?***<br>
 Traditional methods are so old-school 📠 💾. Once I saw how research chould be simplified with technology, I knew I was turned forever. I want to build 🧱 cool things that enhance the day-to-day life. 
 
-**Why me?** <br>
+***Why me?*** <br>
 Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises. I possess a combination of interpersonal and technical skills that have been built upon in my background in sales, as a digital consultant and educational achievements.
 </div>
 
-##About me
+<h2>About me</h2>
 
 After studying Digital Humanities at Masters level, my first career was in International Sales. During this time, I sought advice on how I could hone the coding skills that I began developing at University in order to change career to what I always wanted to do. 
 
