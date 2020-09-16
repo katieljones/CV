@@ -5,22 +5,19 @@
 <div align="center">
 
 [<img src="./icons/github.svg" height="24" align="top">&nbsp;GitHub](https://github.com/katieljones)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/katieljones29/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/KatieLJones29)
-</div>
 
-## About me
+***About me***
 
 After studying Digital Humanities at Masters level, my first career was in International Sales. During this time, I sought advice on how I could hone the coding skills that I began developing at University in order to change career to what I always wanted to do. 
 
 Since then, I have been working as a Digital Consultant for <a href="https://www.dmu.ac.uk/home.aspx">De Montfort University</a> and studying at <a href="http://www.makersacademy.com/">Makers Academy</a>. Here, I have been learning the fundamentals of software development by emulating popular social media sites (like <a href="https://github.com/katieljones/acebook-dreambook-2020">this one, a clone of Facebook</a>). My experience at Makers helped me to develop best practices such as **unit testing**, **TDD**, **clean code**, **OOP** and **DRY**. Even more so, I discovered my interest in **mobile** development, more specifically, **Swift** which I learned and implemented into my final project in just **6** days.
-
-<div align="center"><em>What am I doing while on the jobhunt?</em><br>
+ 
+  ***What am I doing while on the jobhunt?***<br>
 
 Since graduating Makers, I am volunteering on a project for **Age UK**, Hammersmith. This involves enhancing their web **interface** and **database management system** to help **save employee's time**.
 
-Other than this, I am working on a personal project of mine using **Rails**. This project is helping me to augment the knowledge I gained on the course
-as well as going through concepts I added to my to do list because of time constraints on projects. For example, user profile functionality such as uploading and editing account data like a profile photo.
-
-Now, I am looking for my first **Full-Stack Junior Developer** role in London. </div>
+Other than this, I am working on a personal project of mine using **Rails** and improving my **Swift** proficiency.
+</div>
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)
 
