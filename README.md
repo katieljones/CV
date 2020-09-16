@@ -14,6 +14,7 @@ After studying Digital Humanities at Masters level, my first career was in Inter
 Since then, I have been studying at <a href="http://www.makersacademy.com/">Makers Academy</a>, a highly selective 4-month, full-time bootcamp. Here, I have been learning the fundamentals of software development through making cool projects such as clones of popular social media sites (like <a href="https://github.com/katieljones/acebook-dreambook-2020">this one</a>) which is hosted <a href="https://sheltered-sands-59716.herokuapp.com/">here</a>. My experience at Makers helped me to develop best practises such as **unit testing**, **TDD**, **clean code**, **KISS** and **DRY**. Even more so, I discovered my interest in **mobile** development, more specifically, **Swift** which I learned and implemented into my final project in just **6** days.
 
 *What am I doing while on the jobhunt?*<br>
+
 Since graduating Makers, I am volunteering on a project for **AgeUK**, Hammersmith. This involves enhancing their web **interface** and **database management system** to help **save employee's time** by strengthening what they currently have in place.
 
 Other than this, I am working on a personal project of mine using **Rails**. This project is  helping me to iterate the knowledge I already gained as well as learn some concepts I didn't get round to because of time constraints on projects. For example, user profile functionality such as uploading and editing account data like a profile photo.
